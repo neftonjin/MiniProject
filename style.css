@@ -20,6 +20,15 @@ header{
     padding: 1.125rem
 
 }
+.wrapper{
+    display:flex;
+    flex-direction: column;
+    border: solid red 3px;
+    height: 100vh;
+    gap: 50px;
+    justify-content: space-between;
+    
+}
 .list-item{
     list-style: none;
     display: inline;
@@ -49,4 +58,10 @@ label{
 }
 fieldset{
     padding: 3rem;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2rem;
 }

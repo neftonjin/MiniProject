@@ -10,7 +10,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url( 
-        /Projects/MiniProject/images/pexels.jpg
+        ../images/pexels.jpg
     );
 }
 
